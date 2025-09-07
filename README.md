@@ -1,3 +1,15 @@
+👋 **Hi, I'm Shubham Kumar**
+
+🎯 **Currently working on:**  
+Frontend projects using React.js, Tailwind CSS, and JavaScript  
+
+🤝 **Looking to collaborate on:**  
+Open-source Web Development & UI-focused projects  
+
+🙌 **Looking for help with:**  
+Optimizing React performance and exploring Backend (Node.js)  
+
+
 # 💫 About Me:
 # 👋 Hi, I'm Shubham Kumar  <br><br>## 🚀 About Me  <br><br>🎯 **Currently working on:**  <br>Frontend projects using **React.js, Tailwind CSS, and JavaScript**  <br><br>🤝 **Looking to collaborate on:**  <br>Open-source **Web Development** & UI-focused projects  <br><br>👐 **Looking for help with:**  <br>Optimizing **React performance** and exploring **Backend (Node.js)**  <br><br>🌱 **Currently learning:**  <br>- Data Structures & Algorithms (C++)  <br>- Backend Development (Node.js, APIs)  <br><br>💬 **Ask me about:**  <br>Frontend Development, JavaScript, UI/UX basics, and clean responsive design  <br><br>⚡ **Fun fact:**  <br>I turn ☕ coffee into code and 🐞 bugs into features 😎  <br><br>---<br><br>### 🔗 Connect with Me  <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamkumar9910/)  <br>[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sk1853893@gmail.com)  <br>[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamkumar9910)  <br>
 
